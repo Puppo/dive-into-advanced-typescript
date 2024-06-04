@@ -1,0 +1,22 @@
+{
+	"name": "advanced-typescript",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "ts-node"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@biomejs/biome": "1.8.2",
+		"expect-type": "^0.19.0",
+		"lefthook": "^1.6.18",
+		"ts-node": "^10.9.2",
+		"typescript": "5.4"
+	},
+	"dependencies": {
+		"zod": "^3.23.8"
+	}
+}
